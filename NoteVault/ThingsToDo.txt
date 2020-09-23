@@ -1,0 +1,4 @@
++ Add search feature for notes and groups
++ Add option to allow the user to attach a file to the note
++ Add edit menu so user can copy note to clipboard
++ Package program in installer

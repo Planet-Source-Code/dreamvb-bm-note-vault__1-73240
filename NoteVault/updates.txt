@@ -1,0 +1,95 @@
+----------------------
++ Note Vault Updates +
+----------------------
+
+3/12/09
+Added Delete Group
+Added Moden statusbar
+Added Backup database
+Added new icons to groups
+Added lastupdate time to notes
+
+4/12/09
+Added popup menu to notes List
+
+5/12/09
+Added create new database
+Added Open database
+Added option to check for duplicated group names
+Added about box
+
+6/12/09
+Updated about box with hyperlink to website
+Added option to move note to diffent groups
+Added sorting to Column headers
+Added menu shortcuts for add,edit, delete and move note
+Added texture to toolbar
+Added texture to menu items
+Removed old Inputboxes for Add and rename group, Replaced with morden ones
+Fixed small bug in open database
+Fixed small bug adding groups to the top item, list now expands
+Linked up new database button
+
+7/12/09
+Fixed bug when groups are displayed if notes table is empty
+Fixed small bug in notes popup menu
+Added New group menu item to group popup menu
+Added two more priority items Above Normal and Below Normal
+
+8/12/09
+Added options dialog
+Added quick exit using Esc key
+Added option to minsize program to the tray area
+
+9/12/09
+Addded icon support for notes
+Added add note to group menu
+
+11/12/09
+Fixed error when notes field is empty
+Fixed small error while opening database
+Added User password support
+Added readme file
+Added lincene file
+
+15/12/09
+Fixed error while opening readonly databases
+Added check if see if there is an instance of the program aready open
+Added option to delete a note if delete key is pressed
+Added view menu to hide/show toolbar
+Added view layout to view menu
+Added 4 more note icons
+Updated to Version 1.1 (Build 1)
+
+29/12/09
+Added option to open database from command line
+Added menu option to hide statusbar
+
+31/12/09
+Updated to Version 1.1 (Build 2)
+Added option to delete group if delete key is pressed
+Added option to Compact and Repair Database to tools menu
+Fixed small bug in menu
+
+2/1/2010
+Added check for updates to help menu
+
+5/1/2010
+Fix small bugs
+Fixed resize bug
+
+7/1/2010
+Addded skin support to options dialog
+
+10/1/2010
+Added richedit features
+
+13/1/2010
+Added insert bullet points to notes editor
+Added insert picture to notes editor
+Added option to view / hide notes information
+Added option to insert date and time into notes editor
+
+19/1/2010
+Fixed bug when copying text in note editor
+Fixed alignment bug in note editor
